@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UpdateTemtemListLink>https://github.com/Antize/TempTemtem/blob/master/TemtemList</UpdateTemtemListLink>
+  <UpdateFindListLStart>(**</UpdateFindListLStart>
+  <UpdateFindListLEnd>**)</UpdateFindListLEnd>
+  <GetTemtemLink>https://temtem.gamepedia.com/</GetTemtemLink>
+  <GetTemtemIMGLink>https://raw.githubusercontent.com/Antize/TempTemtem/master/Images/</GetTemtemIMGLink>
+  <GetTemtemIMGExtension>.png</GetTemtemIMGExtension>
+  <GetTemtemStartID>(#</GetTemtemStartID>
+  <GetTemtemEndID>)</GetTemtemEndID>
+  <GetTemtemStartHP>&lt;b&gt;HP&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</GetTemtemStartHP>
+  <GetTemtemEndHP>&lt;/</GetTemtemEndHP>
+  <GetTemtemStartSTA>&lt;b&gt;STA&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</GetTemtemStartSTA>
+  <GetTemtemEndSTA>&lt;/</GetTemtemEndSTA>
+  <GetTemtemStartSPD>&lt;b&gt;SPD&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</GetTemtemStartSPD>
+  <GetTemtemEndSPD>&lt;/</GetTemtemEndSPD>
+  <GetTemtemStartATK>&lt;b&gt;ATK&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</GetTemtemStartATK>
+  <GetTemtemEndATK>&lt;/</GetTemtemEndATK>
+  <GetTemtemStartDEF>&lt;b&gt;DEF&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</GetTemtemStartDEF>
+  <GetTemtemEndDEF>&lt;/</GetTemtemEndDEF>
+  <GetTemtemStartSPATK>&lt;b&gt;SPATK&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</GetTemtemStartSPATK>
+  <GetTemtemEndSPATK>&lt;/</GetTemtemEndSPATK>
+  <GetTemtemStartSPDEF>&lt;b&gt;SPDEF&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</GetTemtemStartSPDEF>
+  <GetTemtemEndSPDEF>&lt;/</GetTemtemEndSPDEF>
+  <GetTypeStart>is a &lt;a href="/</GetTypeStart>
+  <GetTypeStartAlt>is an &lt;a href="/</GetTypeStartAlt>
+  <GetTypeAnd>and &lt;a href="/</GetTypeAnd>
+  <GetTypeAndAlt>/&lt;a href="/</GetTypeAndAlt>
+  <GetTypeEnd>"</GetTypeEnd>
+</Settings>
