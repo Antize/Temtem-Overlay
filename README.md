@@ -16,6 +16,11 @@ Free Temtem overlay to see all Temtem stats.
 
 Antize Temtem Overlay can be put over your game to get an overview of all temtem while playing, your game must set in Borderless or Windowed, you have a search box and speech search (Can be enabled in options).
 
+**Speach commandes :**
+  - Internet + Temtem name = Open Temtem page on browser  
+  - Open/Ouvrir + Temtem name = Open Temtem detail  
+  - See/Voir + Temtem name = See Temtem on main window  
+
 ## Do you have an issue or Feedback ?
 If you have an issue, Feedback or you think there is an error in data, just open an issue or send me a message through Discord, I will proceed to the changes as soon as possible.
 
