@@ -12,9 +12,9 @@
 ![Preview](Preview/Exemple3.png)
 
 ## Antize Temtem Overlay
-Free Temtem overlay to see all Temtem stats.
+A free Temtem overlay to easily see all Temtem's statistics.   
 
-Antize Temtem Overlay can be put over your game to get an overview of all temtem while playing, your game must set in Borderless or Windowed, you have a search box and speech search.
+Antize Temtem Overlay can be put over your game to get an overview of all temtem while playing, your game must be set in Borderless or Windowed, you have a search box and speech search to find Temtem in the list.
 
 **Speech commandes : (Speech must be enabled in options)**
   - Internet + Temtem name = Open Temtem page on browser  
@@ -30,6 +30,7 @@ If you have an issue, Feedback or you think there is an error in data, just open
 - If **Antize Temtem Overlay** is launched as admin Malwarebytes detects as false positive, general problem with C# software.
 - Windows defender (Smart screen) Block for unrecognized app. (Choice Run anyway).
 - Avast detect as false positive : IDP Generic.
+- Antivirus ask for Voice accces : Software must have access to the microphone for voice commands (Can be blocked if you wish).
 
 ## How do I get started ?
   -  [Download Temtem-Overlay](https://github.com/Antize/MyTemtem/releases/)  
