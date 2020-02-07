@@ -2,7 +2,7 @@
 # Temtem Overlay by Antize
 
 ## Last Version
-**Antize Temtem (Ver.1.02)**
+**Antize Temtem (Ver.1.01)**
 
 ## Preview
 ![Preview](Preview/Exemple1.png)
