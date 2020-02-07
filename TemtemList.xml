@@ -13,7 +13,7 @@
     <anyType xsi:type="xsd:string">17|Paharac|60|30|70|50|55|60|60|Wind|None</anyType>
     <anyType xsi:type="xsd:string">18|Granpah|69|36|78|55|61|72|66|Wind|None</anyType>
     <anyType xsi:type="xsd:string">19|Ampling|0|0|0|0|0|0|0|Electric|None</anyType>
-    <anyType xsi:type="xsd:string">20|Amphatyr|0|0|0|0|0|0|0|Electric|None</anyType>
+    <anyType xsi:type="xsd:string">20|Amphatyr|0|0|0|0|0|0|0|Electric|Nature</anyType>
     <anyType xsi:type="xsd:string">21|Bunbun|72|40|69|50|36|64|43|Earth|Crystal</anyType>
     <anyType xsi:type="xsd:string">22|Mudrid|85|44|95|60|42|75|50|Earth|Crystal</anyType>
     <anyType xsi:type="xsd:string">23|Hidody|49|70|39|42|39|62|55|Nature|None</anyType>
@@ -81,7 +81,7 @@
     <anyType xsi:type="xsd:string">129|Adoroboros|66|66|60|29|42|70|110|Toxic|Mental</anyType>
     <anyType xsi:type="xsd:string">130|Tuwai|54|47|58|62|45|60|47|Wind|None</anyType>
     <anyType xsi:type="xsd:string">133|Tuvine|57|47|65|70|111|60|47|Wind|Crystal</anyType>
-    <anyType xsi:type="xsd:string">137|Kinu|47|74|74|53|41|69|96|Nature|None</anyType>
+    <anyType xsi:type="xsd:string">137|Kinu|47|74|74|53|41|69|96|Nature|Mental</anyType>
     <anyType xsi:type="xsd:string">138|Vulvir|59|54|57|47|64|47|31|Fire|Earth</anyType>
     <anyType xsi:type="xsd:string">139|Vulor|65|59|63|49|71|49|32|Fire|Earth</anyType>
     <anyType xsi:type="xsd:string">140|Vulcrane|76|65|73|74|86|64|35|Fire|Earth</anyType>
