@@ -9,7 +9,7 @@
 
 ![Preview](Preview/Exemple4.png)
 
-![Preview](Preview/Exemple3.png)
+![Preview](Preview/Exemple2.png)
 
 ## Antize Temtem Overlay
 A free Temtem overlay to easily see all Temtem's statistics.   
