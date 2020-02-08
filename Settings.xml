@@ -1,35 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AppName>Temtem</AppName>
+  <TemtemWikiLink>https://temtem.gamepedia.com/</TemtemWikiLink>
   <UpdateLink>https://github.com/Antize/Temtem-Overlay</UpdateLink>
   <UpdateFindStart>(Ver.</UpdateFindStart>
   <UpdateFindEnd>)</UpdateFindEnd>
-  <UpdateTemtemListLink>https://github.com/Antize/TempTemtem/blob/master/TemtemList</UpdateTemtemListLink>
+  <UpdateTemtemListLink>https://temtem.gamepedia.com/index.php?title=User:Mr_Pie_5/Tem_details</UpdateTemtemListLink>
   <UpdateTemtemFindListLStart>(**</UpdateTemtemFindListLStart>
   <UpdateTemtemFindListLEnd>**)</UpdateTemtemFindListLEnd>
-  <TemtemLink>https://temtem.gamepedia.com/</TemtemLink>
-  <TemtemIMGLink>https://raw.githubusercontent.com/Antize/TempTemtem/master/Images/</TemtemIMGLink>
-  <TemtemIMGExtension>.png</TemtemIMGExtension>
-  <TemtemStartID>(#</TemtemStartID>
-  <TemtemEndID>)</TemtemEndID>
-  <TemtemStartHP>&lt;b&gt;HP&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</TemtemStartHP>
-  <TemtemEndHP>&lt;/</TemtemEndHP>
-  <TemtemStartSTA>&lt;b&gt;STA&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</TemtemStartSTA>
-  <TemtemEndSTA>&lt;/</TemtemEndSTA>
-  <TemtemStartSPD>&lt;b&gt;SPD&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</TemtemStartSPD>
-  <TemtemEndSPD>&lt;/</TemtemEndSPD>
-  <TemtemStartATK>&lt;b&gt;ATK&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</TemtemStartATK>
-  <TemtemEndATK>&lt;/</TemtemEndATK>
-  <TemtemStartDEF>&lt;b&gt;DEF&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</TemtemStartDEF>
-  <TemtemEndDEF>&lt;/</TemtemEndDEF>
-  <TemtemStartSPATK>&lt;b&gt;SPATK&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</TemtemStartSPATK>
-  <TemtemEndSPATK>&lt;/</TemtemEndSPATK>
-  <TemtemStartSPDEF>&lt;b&gt;SPDEF&lt;/b&gt;:&lt;/div&gt;&lt;div style="float:right"&gt;</TemtemStartSPDEF>
-  <TemtemEndSPDEF>&lt;/</TemtemEndSPDEF>
-  <TypeStart>is a &lt;a href="/</TypeStart>
-  <TypeStartAlt>is an &lt;a href="/</TypeStartAlt>
-  <TypeAnd>and &lt;a href="/</TypeAnd>
-  <TypeAndAlt>/&lt;a href="/</TypeAndAlt>
-  <TypeAndAltTwo>/ &lt;a href="/</TypeAndAltTwo>
-  <TypeEnd>"</TypeEnd>
+  <UpdateTypeFindListLStart>(***</UpdateTypeFindListLStart>
+  <UpdateTypeFindListLEnd>***)</UpdateTypeFindListLEnd>
 </Settings>
