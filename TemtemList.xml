@@ -70,7 +70,7 @@
     <anyType xsi:type="xsd:string">108|Goolder|120|70|10|64|56|68|56|Toxic|None</anyType>
     <anyType xsi:type="xsd:string">109|Zephyruff|58|34|68|43|47|50|51|Toxic|Wind</anyType>
     <anyType xsi:type="xsd:string">110|Volarend|69|38|74|51|61|68|96|Toxic|Wind</anyType>
-    <anyType xsi:type="xsd:string">113|Ganki|38|46|61|57|38|62|73|Wind|Electric</anyType>
+    <anyType xsi:type="xsd:string">113|Ganki|38|46|61|57|38|62|73|Electric|Wind</anyType>
     <anyType xsi:type="xsd:string">114|Gazuma|46|53|67|68|43|81|91|Electric|Wind</anyType>
     <anyType xsi:type="xsd:string">115|Oceara|64|42|100|54|51|110|65|Water|None</anyType>
     <anyType xsi:type="xsd:string">122|Shuine|43|90|81|67|49|72|60|Crystal|Water</anyType>

@@ -2,10 +2,12 @@
 <Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AppName>Temtem</AppName>
   <TemtemWikiLink>https://temtem.gamepedia.com/</TemtemWikiLink>
+  <MinOpacity>0.65</MinOpacity>
+  <MaxOpacity>1</MaxOpacity>
   <UpdateLink>https://github.com/Antize/Temtem-Overlay</UpdateLink>
   <UpdateFindStart>(Ver.</UpdateFindStart>
   <UpdateFindEnd>)</UpdateFindEnd>
-  <UpdateTemtemListLink>https://temtem.gamepedia.com/index.php?title=User:Mr_Pie_5/Tem_details</UpdateTemtemListLink>
+  <UpdateTemtemListLink>https://temtem.gamepedia.com/index.php?title=User:Antize000/MyTemtem</UpdateTemtemListLink>
   <UpdateTemtemFindListLStart>(**</UpdateTemtemFindListLStart>
   <UpdateTemtemFindListLEnd>**)</UpdateTemtemFindListLEnd>
   <UpdateTypeFindListLStart>(***</UpdateTypeFindListLStart>
