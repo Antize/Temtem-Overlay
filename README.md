@@ -24,7 +24,7 @@ Antize Temtem Overlay can be put over your game to get an overview of all temtem
 ## Do you have an issue or Feedback ?
 If you have an issue, Feedback or you think there is an error in data, just open an issue or send me a message through Discord, I will proceed to the changes as soon as possible.
 
-[Come on Discord:](https://discord.gg/mQ6Bca7) https://discord.gg/mQ6Bca7
+[Come on Discord:](https://discord.gg/n2KW2tB) https://discord.gg/n2KW2tB
 
 ## Known issues
 - If **Antize Temtem Overlay** is launched as admin Malwarebytes detects as false positive, general problem with C# software.
