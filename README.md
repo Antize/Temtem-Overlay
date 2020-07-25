@@ -1,8 +1,11 @@
 
 # Temtem Overlay by Antize
 
+##
+Uses data from the official wiki so you don't have to update every time the game is updated.
+
 ## Last Version
-**Antize Temtem (Ver.1.03)**
+**Antize Temtem (Ver.1.03)** 
 
 ## Preview
 ![Preview](Preview/Exemple1.png)
