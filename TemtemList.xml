@@ -101,5 +101,13 @@
     <anyType xsi:type="xsd:string">131|Tukai|75|68|65|53|49|74|78|Wind|Water|Tuwai|</anyType>
     <anyType xsi:type="xsd:string">133|Tuvine|57|47|65|65|111|56|47|Wind|Crystal|Tuwai|</anyType>
     <anyType xsi:type="xsd:string">134|Turoc|101|48|60|75|68|47|45|Wind|Earth|Tuwai|</anyType>
+    <anyType xsi:type="xsd:string">137|Kinu|43|64|74|53|41|69|89|Nature|Mental||</anyType>
+    <anyType xsi:type="xsd:string">138|Vulvir|59|54|57|47|64|47|31|Fire|Earth||Vulor</anyType>
+    <anyType xsi:type="xsd:string">139|Vulor|65|59|63|49|71|49|32|Fire|Earth|Vulvir|Vulcrane</anyType>
+    <anyType xsi:type="xsd:string">140|Vulcrane|76|65|73|74|86|64|35|Fire|Earth|Vulor|</anyType>
+    <anyType xsi:type="xsd:string">141|Pigepic|54|72|58|60|72|45|72|Wind|None||</anyType>
+    <anyType xsi:type="xsd:string">142|Akranox|61|52|71|71|64|71|64|Earth|Toxic||</anyType>
+    <anyType xsi:type="xsd:string">144|Vulffy|54|70|60|39|55|76|85|Earth|Nature||</anyType>
+    <anyType xsi:type="xsd:string">161|Anahir|54|36|31|50|101|50|101|Crystal|Fire||</anyType>
   </TemtemList>
 </TemtemList>
