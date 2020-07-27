@@ -20,8 +20,9 @@ Antize Temtem Overlay can be put over your game to get an overview of all temtem
 
 **Speech commandes : (Speech must be enabled in options)**
   - Internet + Temtem name = Open Temtem page on browser  
-  - Open/Ouvrir + Temtem name = Open Temtem detail  
-  - See/Voir + Temtem name = See Temtem on main window  
+  - Open/Ouvrir/Abrir + Temtem name = Open Temtem detail  
+  - Close/Fermer/Cerrar + Temtem name = Close Temtem detail  
+  - See/Voir/Ver + Temtem name = See Temtem on main window  
 
 ## Do you have an issue or Feedback ?
 If you have an issue, Feedback or you think there is an error in data, just open an issue or send me a message through Discord, I will proceed to the changes as soon as possible.
