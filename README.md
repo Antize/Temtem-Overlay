@@ -4,7 +4,7 @@
 ## Last Version
 **Antize Temtem (Ver.1.05)** 
 
-Uses data from the official wiki so you don't have to update the overlay every time the game is updated
+Uses data from the official wiki so you don't have to update the overlay every time the game is updated.
 
 ## Preview
 ![Preview](Preview/Exemple1.png)
