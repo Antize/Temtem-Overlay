@@ -14,4 +14,12 @@
   <UpdateTemtemFindListLEnd>**)</UpdateTemtemFindListLEnd>
   <UpdateTypeFindListLStart>(***</UpdateTypeFindListLStart>
   <UpdateTypeFindListLEnd>***)</UpdateTypeFindListLEnd>
+  <TessdataLang>eng</TessdataLang>
+  <UseCustomResolutionSettings>false</UseCustomResolutionSettings>
+  <SnipWidth>1600</SnipWidth>
+  <SnipHeight>30</SnipHeight>
+  <TemtemLeftX>1175</TemtemLeftX>
+  <TemtemLeftY>26</TemtemLeftY>
+  <TemtemRightX>1573</TemtemRightX>
+  <TemtemRightY>81</TemtemRightY>
 </Settings>
