@@ -14,7 +14,7 @@ Uses data from the official wiki so you don't have to update the overlay every t
 ![Preview](Preview/Exemple2.png)
 
 ## Antize Temtem Overlay
-A free Temtem overlay to easily see all Temtem's statistics.   
+A free Temtem overlay to easily see all Temtem's statistics and can also automatically looks at what Temtem are on the enemy team.
 
 Antize Temtem Overlay can be put over your game to get an overview of all temtem while playing, your game must be set in Borderless or Windowed, you have a search box and speech search to find Temtem in the list.
 
@@ -42,9 +42,11 @@ If you have an issue, Feedback or you think there is an error in data, just open
 
 Inside of package, you must have the following files:
 - **MyTemtem.exe:** Software
-- **Settings.xml:** Settings to refresh data
+- **Settings.xml:** Settings
 - **TemtemList.xml:** Local Temtem data
 - **Temp folder:** Local Temtem files
+- **Tesseract.dll, x64 folder, x86 folder & tessdata folder:** Tesseract has dependencies for automatically looks at what Temtem are on the enemy team
+- **Resolutions.csv:** Resolution settings for Tesseract
 
 ## Prerequisite
 May be **Net Framework 4.5**
