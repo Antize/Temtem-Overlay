@@ -7,11 +7,11 @@
 Uses data from the official wiki so you don't have to update the overlay every time the game is updated.
 
 ## Preview
-![Preview](Preview/Exemple1.png)
+![Preview](Preview/Exemple01.png)
 
-![Preview](Preview/Exemple4.png)
+![Preview](Preview/Exemple03.png)
 
-![Preview](Preview/Exemple2.png)
+![Preview](Preview/Exemple02.png)
 
 ## Antize Temtem Overlay
 A free Temtem overlay to easily see all Temtem's statistics and can also automatically looks at what Temtem are on the enemy team.
@@ -45,8 +45,8 @@ Inside of package, you must have the following files:
 - **Settings.xml:** Settings
 - **TemtemList.xml:** Local Temtem data
 - **Temp folder:** Local Temtem files
-- **Tesseract.dll, x64 folder, x86 folder & tessdata folder:** Tesseract has dependencies for automatically looks at what Temtem are on the enemy team
-- **Resolutions.csv:** Resolution settings for Tesseract
+- **Tesseract.dll, x64 folder, x86 folder & tessdata folder:** OCR has dependencies for automatically looks at what Temtem are on the enemy team
+- **Resolutions.csv:** Resolution settings for OCR
 
 ## Prerequisite
 May be **Net Framework 4.5**
