@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AutoShowHide>true</AutoShowHide>
   <ActualSizeHeight>450</ActualSizeHeight>
   <ActualSizeWidth>800</ActualSizeWidth>
   <AppName>Temtem</AppName>
@@ -14,6 +15,7 @@
   <UpdateTemtemFindListLEnd>**)</UpdateTemtemFindListLEnd>
   <UpdateTypeFindListLStart>(***</UpdateTypeFindListLStart>
   <UpdateTypeFindListLEnd>***)</UpdateTypeFindListLEnd>
+  <AutoScanEnemies>true</AutoScanEnemies>
   <TessdataLang>eng</TessdataLang>
   <UseCustomResolutionSettings>false</UseCustomResolutionSettings>
   <SnipWidth>1600</SnipWidth>
