@@ -23,8 +23,8 @@ Antize Temtem Overlay can be put over your game to get an overview of all temtem
   - Open/Ouvrir + Temtem name = Open Temtem detail  
   - Close/Fermer + Temtem name = Close Temtem detail  
   - See/Voir + Temtem name = See Temtem on main window  
-  - Open Left/Right Temtem & Ouvrir Temtem Gauche/Droite = Open the ennemy Temtem detail
-  - Scan enemy Temtem/Scan Temtem ennemis = Starts a scan of the enemy
+  - Open Left/Right Temtem & Ouvrir Temtem Gauche/Droite = Open Left/Right ennemy Temtem detail
+  - Scan enemy Temtem/Scan Temtem ennemis = Start a scan of the enemy team
 
 ## Do you have an issue or Feedback ?
 If you have an issue, Feedback or you think there is an error in data, just open an issue or send me a message through Discord, I will proceed to the changes as soon as possible.
