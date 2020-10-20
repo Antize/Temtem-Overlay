@@ -11,7 +11,7 @@ Uses data from the official wiki so you don't have to update the overlay every t
 
 ![Preview](Preview/Exemple03.png)
 
-![Preview](Preview/Exemple02.png)
+![Preview](Preview/Exemple04.png)
 
 ## Antize Temtem Overlay
 A free Temtem overlay to easily see all Temtem's statistics and can also automatically looks at what Temtem are on the enemy team.
