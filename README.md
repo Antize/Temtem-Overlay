@@ -6,6 +6,12 @@
 
 Uses data from the official wiki so you don't have to update the overlay every time the game is updated.
 
+The overlay :
+**Doesn't** read Temtem memory
+**Doesn't** intercept any Client-Server communication
+**Doesn't** automate any part of gameplay
+**Doesn't** do anything a player couldn't do themselves using Alt+Tab -> https://temtem.gamepedia.com/Temtem_Wiki
+
 ## Preview
 ![Preview](Preview/Exemple01.png)
 
