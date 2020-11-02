@@ -6,7 +6,7 @@
 
 Uses data from the official wiki so you don't have to update the overlay every time the game is updated.
 
-The overlay :
+**The overlay :**
 - **Doesn't** read Temtem memory
 - **Doesn't** intercept any Client-Server communication
 - **Doesn't** automate any part of gameplay
