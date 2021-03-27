@@ -37,6 +37,7 @@
     <anyType xsi:type="xsd:string">41|Zenoreth|71|35|56|67|87|65|69|Crystal|None|Azuroc|</anyType>
     <anyType xsi:type="xsd:string">44|Bigu|55|68|20|65|38|41|42|Nature|None||Babawa</anyType>
     <anyType xsi:type="xsd:string">45|Babawa|85|92|40|79|57|51|44|Nature|Water|Bigu|</anyType>
+    <anyType xsi:type="xsd:string">46|0b1|0|0|0|0|0|0|0|None|None||</anyType>
     <anyType xsi:type="xsd:string">48|Kaku|69|48|35|35|60|60|50|Nature|None||Saku</anyType>
     <anyType xsi:type="xsd:string">49|Saku|82|60|40|40|62|66|70|Nature|Wind|Kaku|</anyType>
     <anyType xsi:type="xsd:string">50|Valash|58|57|90|74|56|74|56|Neutral|Crystal||</anyType>
@@ -60,7 +61,9 @@
     <anyType xsi:type="xsd:string">74|Tortenite|74|52|52|45|76|89|60|Crystal|Toxic|Sherald|</anyType>
     <anyType xsi:type="xsd:string">79|Hocus|49|61|65|55|34|55|34|Mental|None||Pocus</anyType>
     <anyType xsi:type="xsd:string">80|Pocus|65|73|78|61|36|87|38|Mental|None|Hocus|</anyType>
-    <anyType xsi:type="xsd:string">82|Sparzy|0|0|0|0|0|0|0|Electric|None||</anyType>
+    <anyType xsi:type="xsd:string">81|Smolzy|0|0|0|0|0|0|0|Electric|None||Sparzy</anyType>
+    <anyType xsi:type="xsd:string">82|Sparzy|0|0|0|0|0|0|0|Electric|None|Smolzy|Golzy</anyType>
+    <anyType xsi:type="xsd:string">83|Golzy|0|0|0|0|0|0|0|Electric|Melee|Sparzy|</anyType>
     <anyType xsi:type="xsd:string">84|Mushi|48|33|68|48|36|48|29|Toxic|None||Mushook</anyType>
     <anyType xsi:type="xsd:string">85|Mushook|67|45|81|81|80|49|41|Toxic|Melee|Mushi|</anyType>
     <anyType xsi:type="xsd:string">86|Magmis|52|51|37|55|42|45|35|Fire|None||Mastione</anyType>
@@ -108,6 +111,7 @@
     <anyType xsi:type="xsd:string">140|Vulcrane|76|65|73|74|86|64|35|Fire|Earth|Vulor|</anyType>
     <anyType xsi:type="xsd:string">141|Pigepic|54|72|58|60|72|45|72|Wind|None||</anyType>
     <anyType xsi:type="xsd:string">142|Akranox|71|52|71|71|64|71|64|Earth|Toxic||</anyType>
+    <anyType xsi:type="xsd:string">143|Koish|51|55|66|83|68|70|54|Water|None||</anyType>
     <anyType xsi:type="xsd:string">144|Vulffy|54|70|60|39|55|76|85|Earth|Nature||</anyType>
     <anyType xsi:type="xsd:string">161|Anahir|54|36|31|50|101|50|101|Crystal|Fire||</anyType>
   </TemtemList>
