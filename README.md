@@ -44,9 +44,10 @@ If you have an issue, Feedback or you think there is an error in data, just open
 - Antivirus ask for Voice accces : Software must have access to the microphone for voice commands (Can be blocked if you wish).
 
 ## How do I get started ?
-  -  [Download Temtem-Overlay](https://github.com/Antize/MyTemtem/releases/)  
-  -  Extract files and run `MyTemtem.exe`
+  -  [Download Temtem-Overlay.](https://github.com/Antize/MyTemtem/releases/)
+  -  Extract files and run `MyTemtem.exe`.
   -  To put Antize Temtem Overlay on top of your game, your game must be set in Borderless or Windowed.
+  -  Initial start-up can take a little time, as can updating data.
 
 Inside of package, you must have the following files:
 - **MyTemtem.exe:** Software
@@ -56,6 +57,8 @@ Inside of package, you must have the following files:
 - **Tesseract.dll, x64 folder, x86 folder & tessdata folder:** OCR has dependencies for automatically looks at what Temtem are on the enemy team
 - **Resolutions.csv:** Resolution settings for OCR
 
+Tactical Tracker Overlay for the Temtem game
+
 ## Prerequisite
 May be **Net Framework 4.5**
 
@@ -64,5 +67,3 @@ May be **Net Framework 4.5**
 
 ## License
 Copyright@2019 Antize all rights reserved.
- 
-Tactical Tracker Overlay for the Temtem game
