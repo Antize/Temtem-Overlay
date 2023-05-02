@@ -64,5 +64,5 @@ May be **Net Framework 4.5**
 
 ## License
 Copyright@2019 Antize all rights reserved.
-
-Tactical tracker overlay for the Temtem game
+ 
+Tactical Tracker Overlay for the Temtem game
