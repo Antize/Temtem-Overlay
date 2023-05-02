@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AutoShowHide>true</AutoShowHide>
-  <ActualSizeHeight>450</ActualSizeHeight>
-  <ActualSizeWidth>800</ActualSizeWidth>
+  <ActualSizeHeight>335</ActualSizeHeight>
+  <ActualSizeWidth>600</ActualSizeWidth>
   <AppName>Temtem</AppName>
-  <TemtemWikiLink>https://temtem.gamepedia.com/</TemtemWikiLink>
+  <TemtemWikiLink>https://temtem.wiki.gg/wiki</TemtemWikiLink>
   <MinOpacity>0.65</MinOpacity>
   <MaxOpacity>1</MaxOpacity>
   <UpdateLink>https://github.com/Antize/Temtem-Overlay</UpdateLink>
   <UpdateFindStart>(Ver.</UpdateFindStart>
   <UpdateFindEnd>)</UpdateFindEnd>
-  <UpdateTemtemListLink>https://temtem.gamepedia.com/index.php?title=User:Antize000/MyTemtem</UpdateTemtemListLink>
+  <UpdateTemtemListLink>https://temtem.wiki.gg/wiki/User:Antize000/MyTemtem</UpdateTemtemListLink>
   <UpdateTemtemFindListLStart>(**</UpdateTemtemFindListLStart>
   <UpdateTemtemFindListLEnd>**)</UpdateTemtemFindListLEnd>
   <UpdateTypeFindListLStart>(***</UpdateTypeFindListLStart>
