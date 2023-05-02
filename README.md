@@ -2,7 +2,7 @@
 # Temtem Overlay by Antize
 
 ## Last Version
-**Antize Temtem (Ver.1.08)** 
+**Antize Temtem (Ver.1.10)** 
 
 Uses data from the official wiki so you don't have to update the overlay every time the game is updated.
 
@@ -64,5 +64,3 @@ May be **Net Framework 4.5**
 
 ## License
 Copyright@2019 Antize all rights reserved.
-
-En téléchargeant vous acceptez la récolte de données non sensible.
