@@ -13,6 +13,8 @@ Uses data from the official wiki so you don't have to update the overlay every t
 - **Doesn't** do anything a player couldn't do themselves using Alt+Tab -> https://temtem.gamepedia.com/Temtem_Wiki
 
 ## Preview
+![Preview](Preview/Exemple02.png)
+
 ![Preview](Preview/Exemple01.png)
 
 ![Preview](Preview/Exemple03.png)
