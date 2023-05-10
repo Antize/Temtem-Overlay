@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <AutoShowHide>true</AutoShowHide>
-  <ActualSizeHeight>450</ActualSizeHeight>
-  <ActualSizeWidth>800</ActualSizeWidth>
+  <ActualSizeHeight>294</ActualSizeHeight>
+  <ActualSizeWidth>520</ActualSizeWidth>
   <AppName>Temtem</AppName>
   <TemtemWikiLink>https://temtem.wiki.gg/wiki/</TemtemWikiLink>
   <MinOpacity>0.65</MinOpacity>
@@ -23,8 +23,8 @@
   <TemtemLeftY>26</TemtemLeftY>
   <TemtemRightX>1573</TemtemRightX>
   <TemtemRightY>81</TemtemRightY>
-  <TemtemBattleWidth>482</TemtemBattleWidth>
-  <TemtemBattleHeight>100</TemtemBattleHeight>
+  <TemtemBattleWidth>406</TemtemBattleWidth>
+  <TemtemBattleHeight>152</TemtemBattleHeight>
   <BattleMinOpacity>0.75</BattleMinOpacity>
   <BattleMaxOpacity>1</BattleMaxOpacity>
   <ShowBattleWindows>true</ShowBattleWindows>
