@@ -48,7 +48,7 @@ If you have an issue, Feedback or you think there is an error in data, just open
 ## How do I get started ?
   -  [Download Temtem-Overlay.](https://github.com/Antize/MyTemtem/releases/)
   -  Extract files and run `MyTemtem.exe`.
-  -  To put Antize Temtem Overlay on top of your game, your game must be set in Borderless or Windowed.
+  -  To put Antize Temtem Overlay on top of your game, your game must be set in Borderless.
   -  Initial start-up can take a little time, as can updating data.
 
 Inside of package, you must have the following files:
