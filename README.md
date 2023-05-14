@@ -12,8 +12,7 @@ Uses data from the official wiki so you don't have to update the overlay every t
 - **Doesn't** automate any part of gameplay
 - **Doesn't** do anything a player couldn't do themselves using Alt+Tab -> https://temtem.gamepedia.com/Temtem_Wiki
 
-**Keep in memory**
-It's not a cheat, it doesn't do anything more than ALT+TAB and go to the wiki, it doesn't read memory or intercept network data, it just scans a part of the screen (it takes a screenshot and reads the area to look for the name of the enemy Temtem), the data is taken from the official wiki.
+**Keep in memory**, this is not a cheat, it does nothing more than ALT+TAB and go to the wiki, it does not read memory or intercept network data, it just scans a part of the screen (it takes a screenshot and reads the area to look for the name of the enemy Temtem), the data is taken from the official wiki.
 
 ## Preview
 ![Preview](Preview/Exemple02.png)
