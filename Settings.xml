@@ -23,8 +23,8 @@
   <TemtemLeftY>26</TemtemLeftY>
   <TemtemRightX>1573</TemtemRightX>
   <TemtemRightY>81</TemtemRightY>
-  <TemtemBattleWidth>400</TemtemBattleWidth>
-  <TemtemBattleHeight>155</TemtemBattleHeight>
+  <TemtemBattleWidth>430</TemtemBattleWidth>
+  <TemtemBattleHeight>120</TemtemBattleHeight>
   <BattleMinOpacity>0.75</BattleMinOpacity>
   <BattleMaxOpacity>1</BattleMaxOpacity>
   <ShowBattleWindows>true</ShowBattleWindows>
